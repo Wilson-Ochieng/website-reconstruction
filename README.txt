@@ -1,36 +1,19 @@
 
 TITLE: 
-Roxy - Bootstrap 4 template built by GetTemplates.co
+Slides - Responsive Free HTML5 Horizontal Slides Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
+DESIGNED & DEVELOPED by FreeHTML5.co and Designmodo.com
 
-Websites: https://gettemplates.co https://freehtml5.co/
+Website: http://freehtml5.co/
+Twitter: http://twitter.com/fh5co
+Facebook: http://facebook.com/fh5co
 
 
 CREDITS:
 
-Bootstrap
-http://getbootstrap.com/
-
 jQuery
 http://jquery.com/
 
-OwlCarousel
-https://owlcarousel2.github.io/OwlCarousel2/
-
-Isotope
-https://isotope.metafizzy.co
-
-Select2
-https://select2.org
-
-Stellar
-http://markdalgleish.com/projects/stellar.js/
-
-Lightcase
-https://cornel.bopp-art.com/lightcase/
-
-Demo Images:
-http://unsplash.com
-
+Google Fonts
+https://www.google.com/fonts/
